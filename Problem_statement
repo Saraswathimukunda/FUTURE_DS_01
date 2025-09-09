@@ -1,0 +1,59 @@
+Task: Superstore Sales Analysis & Dashboard
+
+Objective:
+Analyze the Superstore dataset and create an interactive Power BI dashboard that provides key insights for management.
+
+📌 Key Questions to Answer
+
+Overall Performance
+
+   -What is the total Sales, Profit, and Quantity sold?
+
+   -What is the Profit Margin %?
+
+Trends:
+
+  -What is the monthly sales trend? (Do sales increase during certain months?)
+
+  -Which year recorded the highest sales & profit?
+
+
+Best & Worst product:
+
+  -Which are the best-selling product categories (by Sales, Quantity, Profit)?
+
+  -Which are the least profitable products/categories (loss makers)?
+
+
+Customer & Region Insights:
+
+  -Which customer segment (Consumer, Corporate, Home Office) spends the most?
+
+  -Which region/state contributes the most revenue and profit?
+
+  -Which region has the highest losses?
+
+
+Profitability Analysis:
+
+  -Are discounts affecting profit?
+
+  -What is the correlation between Sales and Profit?
+
+
+
+📊 Deliverables
+
+Dashboard in Power BI with:
+
+KPIs → Total Sales, Profit, Quantity, Profit Margin
+
+Line Chart → Monthly Sales Trend
+
+Bar/Column Chart → Sales by Category & Sub-Category
+
+Map → Sales/Profit by Region/State
+
+Table with Conditional Formatting → Top 10 & Bottom 10 Products by Profit
+
+Insights Report (1-page summary) → Explain the key findings (like 2014 highest sales, Staples best-selling, Office Supplies low margin, etc.)
