@@ -1,0 +1,77 @@
+📊 Superstore Dataset Explanation:
+
+The dataset is structured as transactional data — each row is an order (or order line item).
+
+🔹 Order Details
+
+Order ID → Unique code for each order (e.g., CA-2014-100006).
+
+Order Date → Date when the order was placed.
+
+Ship Date → Date when the product was shipped.
+
+Ship Mode → Shipping type (e.g., Standard Class, Second Class, First Class, Same Day).
+
+🔹 Customer Information
+
+Customer ID → Unique ID for each customer.
+
+Customer Name → Name of the customer (real human).
+
+Segment → Customer type: Consumer, Corporate, Home Office.
+
+🔹 Geography
+
+Country → Usually “United States” in sample data.
+
+Region → Region within the country (East, West, Central, South).
+
+State → State name (e.g., California, Texas).
+
+City → City name.
+
+Postal Code → ZIP code.
+
+🔹 Product Information
+
+Product ID → Unique ID for each product.
+
+Category → Main category (Furniture, Office Supplies, Technology).
+
+Sub-Category → Smaller group within category (Chairs, Binders, Phones, etc.).
+
+Product Name → Full product description.
+
+🔹 Sales & Profit Metrics
+
+Sales → Revenue from the product (Price × Quantity, including discount).
+
+Quantity → Number of units sold.
+
+Discount → Discount applied (e.g., 0.20 = 20%).
+
+Profit → Profit after subtracting cost.
+
+📌 Formula:
+
+Profit
+=
+Sales
+−
+Cost
+Profit=Sales−Cost
+
+
+🧩 How Everything Connects
+
+Order ID links customer + order + product.
+
+Customer Name & Segment show who bought.
+
+Category & Product show what was bought.
+
+Region/State/City show where it was bought.
+
+Order/Ship Dates show when it was bought & shipped.
+
+Sales, Quantity, Profit, Discount show how much business it brought.
